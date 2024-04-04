@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guy1228
-- 👀 I’m a Electrical & Computer Engineering Major
-- 🌱 I’m currently learning Javascript, Git, and general Software Development
+- 👀 I’m a Electrical & Computer Engineering Major @ Rutgers University
+- 🌱 I’m currently learning Javascript, mySQL, git, and multiprocesses programming in C!
 - 😄 Pronouns: He/Him
 
 
