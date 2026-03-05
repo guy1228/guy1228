@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @guy1228
-- 👀 I’m a Electrical & Computer Engineering Major @ Rutgers University.
-- 🌱 I’m currently learning Front-End Development, Digital System Design, VHDL, and Network Security!
-- 🤖 Technologies I am competent with: C, C++, JavaScript, NodeJS, SQL, and Matlab.
-- 🚀 In the future I would like to learn about Javascript Frameworks and Emulation/Virtualization.
-- 😄 Pronouns: He/Him
 
 
 <!---
